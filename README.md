@@ -15,12 +15,7 @@ The **Gemini Chatbot** is a Flutter-based mobile application that offers an inte
 
 ---
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+1)
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+2)
-
-*(Replace placeholders with actual screenshots from your app)*
 
 ---
 
